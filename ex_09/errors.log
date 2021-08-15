@@ -1,0 +1,79 @@
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:74
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:74
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:74
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:69
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:69
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Bad params ! Usage: add_user.php login password password_conf roleException: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:67
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Bad params ! Usage: add_user.php login password password_conf role
+Bad params ! Usage: add_user.php login password password_conf role
+Bad params ! Usage: add_user.php login password password_conf role
+Bad params ! Usage: add_user.php login password password_conf role
+Bad params ! Usage: add_user.php login password password_conf role
+Exception: Passwords don't match in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:64
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:70
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:70
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:70
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:70
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:70
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Error connection to DB 
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'field list'
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:73
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:73
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Exception: Bad role: ADM|GLOBAL|INVITE in /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php:75
+Stack trace:
+#0 /home/jackson/C-RDG-111-FR-1-3-phpday09-jean-jackson.medilien/ex_09/add_user.php(27): connect_db()
+#1 {main}
+Error connection to DB 
+SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Error connection to DB 
+SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Error connection to DB 
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Dylan','c024ccdda251f4a04e2803a06c3e63a5619ca2ffabef2a7ddf6d7dca354ac4dc','ADM'' at line 1
+Error connection to DB 
+SQLSTATE[HY000]: General error: 1364 Field 'email' doesn't have a default value
+Error connection to DB 
+SQLSTATE[HY000]: General error: 1364 Field 'created_at' doesn't have a default value
+Error connection to DB 
+SQLSTATE[HY000]: General error: 1364 Field 'is_admin' doesn't have a default value
